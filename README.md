@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Khôi. I am recently a Junior Student at HCMUT. I am currently researching on NLP topics.
 <!--
 **TokisakiKurumi2001/TokisakiKurumi2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
