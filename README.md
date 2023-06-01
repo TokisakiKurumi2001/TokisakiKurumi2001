@@ -1,7 +1,7 @@
 # Hi there 👋 , I’m Khôi!
 <a href=https://www.linkedin.com/in/khoi-le-m-8a86631b4/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=TokisakiKurumi2001&color=blue">
 
-My name is Khôi. I am recently a Junior Student at HCMUT. I am currently researching on NLP topics such as Neural Machine Translation, Text Summarization, Question Answering, Dialog generation, Sentiment Analysis.
+My name is Khôi. I am currently researching on NLP topics such as Neural Machine Translation, Text Summarization, Question Answering, Dialog generation, Sentiment Analysis.
 
 ## 🔍 Research technology:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
