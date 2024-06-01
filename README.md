@@ -1,10 +1,14 @@
 # Hi there 👋 , I’m Khôi!
 <a href=https://www.linkedin.com/in/khoi-le-m-8a86631b4/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=TokisakiKurumi2001&color=blue">
 
-My name is Khôi. I am currently researching on NLP topics such as Neural Machine Translation, Text Summarization, Question Answering, Dialog generation, Sentiment Analysis.
+My name is Khôi. I am currently researching on NLP topics such as Cross-lingual generalization, Low-resources adaptation.
 
 ## Solid work
 
+<a href="https://aaai.org/aaai-conference/">
+  <img src="http://img.shields.io/badge/AAAI-2024-001B37.svg" alt="Conference">
+</a>
+      
 *LAMPAT: Low-Rank Adaption for Multilingual Paraphrasing Using Adversarial Training*. <ins>Khoi M Le</ins>, Trinh Pham, Tho Quan, Anh Tuan Luu. Proceedings of the AAAI Conference on Artificial Intelligence (2024). [[code](https://github.com/VinAIResearch/LAMPAT)] [[paper](https://arxiv.org/abs/2401.04348)]
 
 ## 🔍 Research technology:
