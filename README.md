@@ -3,6 +3,10 @@
 
 My name is Khôi. I am currently researching on NLP topics such as Neural Machine Translation, Text Summarization, Question Answering, Dialog generation, Sentiment Analysis.
 
+## Solid work
+
+*LAMPAT: Low-Rank Adaption for Multilingual Paraphrasing Using Adversarial Training*. <ins>Khoi M Le</ins>, Trinh Pham, Tho Quan, Anh Tuan Luu. Proceedings of the AAAI Conference on Artificial Intelligence (2024). [[code](https://github.com/VinAIResearch/LAMPAT)] [[paper](https://arxiv.org/abs/2401.04348)]
+
 ## 🔍 Research technology:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
