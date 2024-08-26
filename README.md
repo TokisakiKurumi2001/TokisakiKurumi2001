@@ -5,6 +5,12 @@ My name is Khôi. I am currently researching on NLP topics such as Cross-lingual
 
 ## Solid work
 
+<a href="https://2024.aclweb.org/">
+  <img src="https://img.shields.io/badge/ACL-2024-blue" alt="Conference">
+</a>
+
+*UniBridge: A Unified Approach to Cross-Lingual Transfer Learning for Low-Resource Languages*. Trinh Pham, <ins>Khoi M Le</ins>, Anh Tuan Luu. Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (2024). [[code](https://github.com/VinAIResearch/UniBridge)] [[paper](https://arxiv.org/abs/2406.09717)]
+
 <a href="https://aaai.org/aaai-conference/">
   <img src="http://img.shields.io/badge/AAAI-2024-001B37.svg" alt="Conference">
 </a>
